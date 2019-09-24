@@ -1,7 +1,7 @@
 ## About me:
 
 I am a Post-Bacc student at Boise State University majoring in Computer Science. I expect to graduate in Summer 2020.
-This page contains examples of my work throughout my education at the university.
+This page contains examples of my work throughout my studies at the university.
 
 ### Programming
 
@@ -10,7 +10,9 @@ repositories below. They are organized by language and main concept.
 
 ### JAVA
 
-[java repositories]
+- [Priority Queue](https://github.com/droycho/priorityQueue)
+  - This project is a java implementation of a piority queue using a max-heap data structure built with an Array.
+
 
 ### C
 
