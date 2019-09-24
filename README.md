@@ -1,8 +1,7 @@
-## Welcome to DJ's Portfolio Page
+## About me:
 
-You can use the [editor on GitHub](https://github.com/droycho/droycho.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Post-Bacc student at Boise State University majoring in Computer Science. I expect to graduate in Summer 2020.
+This page contains examples of my work throughout my education at the university.
 
 ### Markdown
 
