@@ -3,34 +3,39 @@
 I am a Post-Bacc student at Boise State University majoring in Computer Science. I expect to graduate in Summer 2020.
 This page contains examples of my work throughout my education at the university.
 
-### Markdown
+### Programming
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My studies at Boise State have provided me with a wide variety of skills in a range of different languages. I have included links to my
+repositories below. They are organized by language and main concept.
 
-```markdown
-Syntax highlighted code block
+### JAVA
 
-# Header 1
-## Header 2
-### Header 3
+[java repositories]
 
-- Bulleted
-- List
+### C
 
-1. Numbered
-2. List
+[C repositories]
 
-**Bold** and _Italic_ and `Code` text
+### Unity
 
-[Link](url) and ![Image](src)
-```
+[UNity repositories]
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### ActionScript
 
-### Jekyll Themes
+[ActionScript repositories]
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/droycho/droycho.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Javascript
 
-### Support or Contact
+[JavaScript repositories]
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Android
+
+[Android repositories]
+
+### Arduino
+
+[Ardiono repositories]
+
+### Other
+
+[Other repositories]
